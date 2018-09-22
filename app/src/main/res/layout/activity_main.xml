@@ -36,4 +36,13 @@
         android:layout_marginTop="46dp"
         android:text="Show Toast" />
 
+    <Button
+        android:id="@+id/btnShareTOOtherApps"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="64dp"
+        android:text="Share" />
+
 </RelativeLayout>

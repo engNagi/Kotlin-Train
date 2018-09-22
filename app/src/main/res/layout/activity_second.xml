@@ -4,4 +4,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtViewUSerMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#f40d30"
+        android:textAlignment="center"
+        android:layout_margin="20dp"
+        android:text="TextView" />
 </LinearLayout>
